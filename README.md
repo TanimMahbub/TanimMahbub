@@ -43,7 +43,7 @@ Since I started to learn web design and development, the thing I loved the most 
 - 🔭 Experimenting with this [CSS based modal](https://github.com/TanimMahbub/css_modal), I have [explained it here](https://dev.to/tanim_mahbub/pure-css-tab-using-target-and-has-1hje). You can [check out the current live view](https://tanimmahbub.github.io/css_modal/) if you want.
 ---- ----- ------ ----
 <br/>
-<h3 align="center">**Virtual Society**</h3>
+<h3 align="center">Virtual Society</h3>
 <p align="center">
 <a href="https://codepen.io/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanim_mahbub" height="30" width="40" /></a>
 <a href="https://dev.to/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tanim_mahbub" height="30" width="40" /></a>
