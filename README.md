@@ -27,7 +27,7 @@ Since I started to learn web design and development, the thing I loved the most 
 - 📌 [Bracket](https://tanim.raptit.com/bracket/preview.html) (Themeforest product)
 - 📌 [Shifu](https://tanimmahbub.github.io/shifu/) (client)
 - 📌 [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
-- 📌 [Hayat Mall](https://hayatmall.iq/) (client)
+- 📌 [Hayat Mall](https://hayatmall.iq/) (client) (RTL, Arabic)
 <br/><br/>
 <h3 align="center">Languages and Tools</h3>
 <br/>
