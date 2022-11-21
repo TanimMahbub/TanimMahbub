@@ -9,6 +9,15 @@ I design, but not with design tools like Photoshop or XD, I design & code togeth
 I have basic PHP knowledge and Laravel as well, so I can make the front-end part of any Laravel project. Also, have experience in WordPress theme development & customization.
 
 Since I started to learn web design and development, the thing I loved the most is CSS. That’s why I try sometimes to do something in [**Stack Overflow**](https://stackoverflow.com/users/6402956/tanim) every now and then.
+---- ----- ------ ----
+
+<p align="left">
+<a href="https://codepen.io/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanim_mahbub" height="30" width="40" /></a>
+<a href="https://dev.to/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tanim_mahbub" height="30" width="40" /></a>
+<a href="https://twitter.com/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanim_mahbub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanimmahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanimmahbub" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6402956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6402956" height="30" width="40" /></a>
+</p>
 
 ### Some of my works-
 ---- ----- ------ ----
@@ -42,15 +51,6 @@ Since I started to learn web design and development, the thing I loved the most 
 - ⚡ Fun fact: I'm boring like a **LAZY** sloth 😂🤣😂 and I LOVE experimenting, with cooking and web dedesign & development, CSS in particular.
 - 🔭 Experimenting with this [CSS based modal](https://github.com/TanimMahbub/css_modal), I have [explained it here](https://dev.to/tanim_mahbub/pure-css-tab-using-target-and-has-1hje). You can [check out the current live view](https://tanimmahbub.github.io/css_modal/) if you want.
 ---- ----- ------ ----
-<br/>
-<h3 align="center">Virtual Society</h3>
-<p align="center">
-<a href="https://codepen.io/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanim_mahbub" height="30" width="40" /></a>
-<a href="https://dev.to/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tanim_mahbub" height="30" width="40" /></a>
-<a href="https://twitter.com/tanim_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanim_mahbub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanimmahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanimmahbub" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6402956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6402956" height="30" width="40" /></a>
-</p>
 
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanimMahbub)](https://github.com/anuraghazra/github-readme-stats)
