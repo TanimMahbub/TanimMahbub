@@ -48,7 +48,7 @@ Since I started to learn web design and development, the thing I loved the most 
 - 🌱 I’m currently learning WordPress theme development 
 - 💬 Ask me about CSS 
 - 📫 How to reach me: tanim.mahbub001@gmail.com 
-- ⚡ Fun fact: I'm boring like a **LAZY** sloth 😂🤣😂 and I LOVE experimenting, with cooking and web dedesign & development, CSS in particular.
+- ⚡ Fun fact: I'm boring like a **LAZY** sloth 😂🤣😂 and I LOVE experimenting, with cooking and web design & development, CSS in particular.
 - 🔭 Experimenting with this [**PURE CSS Modal**](https://github.com/TanimMahbub/css_modal), You can [check out the current live view](https://tanimmahbub.github.io/css_modal/) if you want.
 - 🔭 Also experimenting with this [**PURE CSS Tab**](https://codepen.io/Tanim_Mahbub/pen/OxzLBv), I have [explained it here in detail](https://dev.to/tanim_mahbub/pure-css-tab-using-target-and-has-1hje).
 ---- ----- ------ ----
