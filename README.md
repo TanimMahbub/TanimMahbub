@@ -45,7 +45,7 @@ Since I started to learn web design and development, the thing I loved the most 
 <br/><br/>
 
 ---- ----- ------ ----
-- 🌱 I’m currently learning WordPress theme development 
+- 🌱 I’m currently learning WordPress theme development and Web design in Figma
 - 💬 Ask me about CSS 
 - 📫 How to reach me: tanim.mahbub001@gmail.com 
 - ⚡ Fun fact: I'm boring like a **LAZY** sloth 😂🤣😂 and I LOVE experimenting, with cooking and web design & development, CSS in particular.
