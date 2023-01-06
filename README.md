@@ -1,12 +1,15 @@
 # Hi there 👋, I'm Tanim Mahbub
 #### I am a web designer & developer
 
-Hi there,
-I have been working as a Front-end Developer in the Themeforest marketplace since 2015. Worked with professionals and got more than 50 HTML templates approved including my own. 
+Hi there, my name is Tanim Mahbub, it's Mahbubur Rahman Tanim in my birth certificate, and I made it short for better user experience.
 
-I design, but not with design tools like Photoshop or XD, I design & code together, get the idea from any provided demo live link or image or from any other design, or from description and requirements. I can use them though, to convert the design from Figma or PSD, or XD to HTML.
+When I start working as a front-end developer in mid 2015, all I wanted is to get approval from Themeforest that I'm a professional front-end developer. So I never worked with a team or company that is not Themeforest-based for the first 2-3 years, and got more than 50 HTML templates approved including my own. And still, I work on Themeforest projects whenever I get the opportunities.
 
-I have basic PHP knowledge and Laravel as well, so I can make the front-end part of any Laravel project. Also, have experience in WordPress theme development & customization.
+Sometimes, I like to design. From the very beginning of my career, I knew I have a design sense at the back of my developer mind, not very sensitive, and not very advanced, but I had one, from the beginning, get ideas from any provided demo, live link, or image, or from any other design, or from a description and requirements, and then start the design experiment.
+I do my design experiments in Figma mostly, but when I don’t have time to use Figma, I translate my design-idea into code. And the other design tools like PSD, AI, XD, etc. I use them to convert designs to HTML.
+
+I have basic PHP knowledge and Laravel (Blade) as well, so I can make the front-end part of any Laravel project.
+Also, have experience in WordPress theme development & customization, so I can make the front-end code very much back-end-friendly.
 
 Since I started to learn web design and development, the thing I loved the most is CSS. That’s why I try sometimes to do something in [**Stack Overflow**](https://stackoverflow.com/users/6402956/tanim) every now and then.
 ---- ----- ------ ----
