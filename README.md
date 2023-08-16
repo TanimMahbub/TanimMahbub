@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tanim Mahbub
 #### I am a web designer & developer
 
-Hi there, my name is Tanim Mahbub, it's Mahbubur Rahman Tanim on my birth certificate, and I made it short for a better user experience.
+My name is Tanim Mahbub, it's Mahbubur Rahman Tanim on my birth certificate, and I made it short for a better user experience 😎
 
 When I start working as a front-end developer in mid-2015, all I wanted is to get approval from Themeforest that I'm a professional front-end developer. So I never worked with a team or company that is not Themeforest-based for the first 2-3 years, and got more than 50 HTML templates approved including my own. And still, I work on Themeforest projects whenever I get the opportunity.
 
