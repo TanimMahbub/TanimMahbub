@@ -25,22 +25,22 @@ Since I started to learn web design and development, the thing I loved the most 
 ### Some of my works-
 ---- ----- ------ ----
 #### DESIGN to HTML
-- 👉 [Novio](https://tanim.raptit.com/novio/)  (Themeforest product)
-- 👉 [Seattle Gardening](https://tanim.raptit.com/Seattle_Gardening/) (Themeforest product)
-- 👉 [Advotis](https://tanim.raptit.com/advotis/) (Themeforest product)
-- 👉 [Mojo](https://tanim.raptit.com/mojo/) (Themeforest product)
-- 👉 [Medicust](https://tanim.raptit.com/medicust/) (Themeforest product)
-- 👉 [Purpose App](https://osumstudio.com/envato/purposeapp/demo/?v=1.1) (Themeforest product)
-- 👉 [Findout App](https://osumstudio.com/envato/findout_html/frame/) (Themeforest product)
+- ↦ [Novio](https://tanim.raptit.com/novio/)  (Themeforest product)
+- ↦ [Seattle Gardening](https://tanim.raptit.com/Seattle_Gardening/) (Themeforest product)
+- ↦ [Advotis](https://tanim.raptit.com/advotis/) (Themeforest product)
+- ↦ [Mojo](https://tanim.raptit.com/mojo/) (Themeforest product)
+- ↦ [Medicust](https://tanim.raptit.com/medicust/) (Themeforest product)
+- ↦ [Purpose App](https://osumstudio.com/envato/purposeapp/demo/?v=1.1) (Themeforest product)
+- ↦ [Findout App](https://osumstudio.com/envato/findout_html/frame/) (Themeforest product)
 <br/><br/>
 
 #### DESIGN & DEVELOPMENT
-- 📌 [Greeting Card](https://the-perfect-greeting.pages.dev/) (client)
-- 📌 [Black Port](https://tanim.raptit.com/blackport/preview.html) (Themeforest product)
-- 📌 [Bracket](https://tanim.raptit.com/bracket/preview.html) (Themeforest product)
-- 📌 [Shifu](https://tanimmahbub.github.io/shifu/) (client)
-- 📌 [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
-- 📌 [Hayat Mall](https://hayatmall.iq/) (client) (RTL, Arabic)
+- ⇒ [Greeting Card](https://the-perfect-greeting.pages.dev/) (client)
+- ⇒ [Black Port](https://tanim.raptit.com/blackport/preview.html) (Themeforest product)
+- ⇒ [Bracket](https://tanim.raptit.com/bracket/preview.html) (Themeforest product)
+- ⇒ [Shifu](https://tanimmahbub.github.io/shifu/) (client)
+- ⇒ [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
+- ⇒ [Hayat Mall](https://hayatmall.iq/) (client) (RTL, Arabic)
 <br/><br/>
 <h3 align="center">Languages and Tools</h3>
 <br/>
