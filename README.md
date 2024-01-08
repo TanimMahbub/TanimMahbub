@@ -3,7 +3,11 @@
 
 My name is Tanim Mahbub, it's Mahbubur Rahman Tanim on my birth certificate, and I made it short for a better user experience 😎
 
-When I start working as a front-end developer in mid-2015, all I wanted is to get approval from Themeforest that I'm a professional front-end developer. So I never worked with a team or company that is not Themeforest-based for the first 2-3 years, and got more than 50 HTML templates approved including my own. And still, I work on Themeforest projects whenever I get the opportunity.
+I've been in the field of front-end development since mid-2015, and my primary goal initially was to
+establish myself as a professional front-end developer on ThemeForest. In my first 2-3 years, I
+exclusively worked on ThemeForest-based projects, gaining approval for more than 50 HTML templates,
+including some of my own creations. To this day, I continue to actively contribute to ThemeForest
+projects whenever the opportunity arises.
 
 Sometimes, I like to design. From the very beginning of my career, I knew I have a design sense at the back of my developer mind, not very sensitive, and not very advanced, but I had one, from the beginning, get ideas from any provided demo, live link, or image, or from any other design, or from a description and requirements, and then start the design experiment.
 I do my design experiments in Figma mostly, but when I don’t have time to use Figma, I translate my design idea into code. And the other design tools like PSD, AI, XD, etc. I use them to convert designs to HTML.
