@@ -9,13 +9,21 @@ exclusively worked on ThemeForest-based projects, gaining approval for more than
 including some of my own creations. To this day, I continue to actively contribute to ThemeForest
 projects whenever the opportunity arises.
 
-Sometimes, I like to design. From the very beginning of my career, I knew I have a design sense at the back of my developer mind, not very sensitive, and not very advanced, but I had one, from the beginning, get ideas from any provided demo, live link, or image, or from any other design, or from a description and requirements, and then start the design experiment.
-I do my design experiments in Figma mostly, but when I don’t have time to use Figma, I translate my design idea into code. And the other design tools like PSD, AI, XD, etc. I use them to convert designs to HTML.
+One of my passions lies in design. Since the beginning of my career, I've known a design sense at the
+back of my developer mind. Though not overly advanced, I draw inspiration from various sources such
+as demos, live links, images, and other designs. My design experiments primarily take place in Figma,
+but when time is an issue, I efficiently translate my ideas directly into code. Additionally, I am well-versed in using design tools like PSD, AI, XD, etc., to convert designs into HTML.
 
-I have basic PHP knowledge and Laravel (Blade) as well, so I can make the front-end part of any Laravel project.
-Also, have experience in WordPress theme development & customization, so I can make the front-end code very back-end-friendly.
+I have basic PHP knowledge and am proficient in Laravel (Blade), enabling me to handle the front-end
+part of any Laravel project. Furthermore, my experience extends to WordPress theme development and
+customization, ensuring that the front-end code seamlessly integrates with the back-end. 
 
-Since I started to learn web design and development, the thing I loved the most is CSS. That’s why I try sometimes to do something in [**Stack Overflow**](https://stackoverflow.com/users/6402956/tanim) every now and then.
+One aspect of web development that has always captivated me is CSS. Since the beginning of my
+learning journey, I've developed a deep appreciation for CSS, and I actively engage with the community
+by contributing on Stack Overflow. [**My contributions on Stack Overflow**](https://stackoverflow.com/users/6402956/tanim), particularly in the realm of
+CSS, reflect my commitment to sharing knowledge and learning from fellow web developers. I am
+excited about the opportunity to bring my unique blend of design and development skills to your team
+and contribute to the success of your projects.
 ---- ----- ------ ----
 
 <p align="left">
