@@ -52,7 +52,7 @@ and contribute to the success of your projects.
 - ⇒ [Bracket](https://tanim.raptit.com/bracket/preview.html) (Themeforest product)
 - ⇒ [Shifu](https://tanimmahbub.github.io/shifu/) (client)
 - ⇒ [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
-- ⇒ [Markaz](https://markazul-uloom.com/) (RTL, Arabic, Bangla)
+- ⇒ [Markaz](https://markazul-uloom.com/) (LTR+RTL, Arabic+Bangla)
 <br/><br/>
 <h3 align="center">Languages and Tools</h3>
 <br/>
