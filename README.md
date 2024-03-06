@@ -61,7 +61,7 @@ and contribute to the success of your projects.
 <br/><br/>
 
 ---- ----- ------ ----
-- 🌱 I’m currently learning WordPress theme development and Web design in Figma
+- 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about CSS 
 - 📫 How to reach me: tanim.mahbub001@gmail.com 
 - ⚡ Fun fact: I'm boring like a **LAZY** sloth 😂🤣😂 and I LOVE experimenting, with cooking and web design & development, CSS in particular.
