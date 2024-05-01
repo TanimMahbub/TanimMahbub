@@ -47,6 +47,7 @@ and contribute to the success of your projects.
 <br/><br/>
 
 #### DESIGN & DEVELOPMENT
+- ⇒ [HasinHayder](https://hasinhayder.onrender.com/) (Practice project)
 - ⇒ [eBiz](https://ebz.onrender.com/) (client) ([other pages ↗](https://ebz.onrender.com/loggedin))
 - ⇒ [Greeting Card](https://the-perfect-greeting.pages.dev/) (client)
 - ⇒ [Black Port](https://tanim.raptit.com/blackport/preview.html) (Themeforest product)
