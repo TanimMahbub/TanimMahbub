@@ -49,8 +49,8 @@ and contribute to the success of your projects.
 #### DESIGN & DEVELOPMENT
 - ⇒ [HasinHayder](https://hasinvai.onrender.com/) (Practice project) ([RTL ↗](https://golu-of3c.onrender.com/rtl/index_2.html))
 - ⇒ [eBiz](https://ebz.onrender.com/) (client) ([other pages ↗](https://ebz.onrender.com/loggedin))
-- ⇒ [Black Port](https://tanim.raptit.com/blackport/preview.html) (Themeforest product)
-- ⇒ [Bracket](https://tanim.raptit.com/bracket/preview.html) (Themeforest product)
+- ⇒ [Black Port](https://blackport.pages.dev/preview) (Themeforest product)
+- ⇒ [Bracket](https://tfitemthird.pages.dev/preview) (Themeforest product)
 - ⇒ [Shifu](https://tanimmahbub.github.io/shifu/) (client)
 - ⇒ [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
 - ⇒ [Markaz](https://markaz-zv7x.onrender.com/) (LTR+RTL, Arabic+Bangla)
