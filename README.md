@@ -39,9 +39,9 @@ and contribute to the success of your projects.
 #### DESIGN to HTML
 - ↦ [Novio](https://tanim.raptit.com/novio/)  (Themeforest product)
 - ↦ [Seattle Gardening](https://tanim.raptit.com/Seattle_Gardening/) (Themeforest product)
-- ↦ [Advotis](https://tanim.raptit.com/advotis/) (Themeforest product)
-- ↦ [Mojo](https://tanim.raptit.com/mojo/) (Themeforest product)
-- ↦ [Medicust](https://tanim.raptit.com/medicust/) (Themeforest product)
+- ↦ [Advotis](https://advotis.pages.dev/) (Themeforest product)
+- ↦ [Mojo](https://mojo-5lz.pages.dev/) (Themeforest product)
+- ↦ [Medicust](https://medicust.pages.dev/) (Themeforest product)
 - ↦ [Purpose App](https://osumstudio.com/envato/purposeapp/demo/?v=1.1) (Themeforest product)
 - ↦ [Findout App](https://osumstudio.com/envato/findout_html/frame/) (Themeforest product)
 <br/><br/>
