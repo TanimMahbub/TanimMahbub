@@ -53,7 +53,7 @@ and contribute to the success of your projects.
 - ⇒ [Bracket](https://tfitemthird.pages.dev/preview) (Themeforest product)
 - ⇒ [Shifu](https://tanimmahbub.github.io/shifu/) (client)
 - ⇒ [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
-- ⇒ [Markaz](https://markaz-zv7x.onrender.com/) (LTR+RTL, Arabic+Bangla)
+- ⇒ [Darut Talim](http://daruttalimbd.com/) (LTR+RTL, Arabic+Bangla)
 <br/><br/>
 <h3 align="center">Languages and Tools</h3>
 <br/>
