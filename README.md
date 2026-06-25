@@ -37,8 +37,6 @@ and contribute to the success of your projects.
 ### Some of my works-
 ---- ----- ------ ----
 #### DESIGN to HTML
-- ↦ [Novio](https://tanim.raptit.com/novio/)  (Themeforest product)
-- ↦ [Seattle Gardening](https://tanim.raptit.com/Seattle_Gardening/) (Themeforest product)
 - ↦ [Advotis](https://advotis.pages.dev/) (Themeforest product)
 - ↦ [Mojo](https://mojo-5lz.pages.dev/) (Themeforest product)
 - ↦ [Medicust](https://medicust.pages.dev/) (Themeforest product)
